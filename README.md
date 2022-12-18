@@ -10,7 +10,9 @@ Edit this **index.html** file and change the meta refresh tag to point to your M
 
 ## Step 3) Upload this index.html file to your webspace.
 
-Upload this edited index.html file to your webspace, and you're good to go! You can now post your subdomain link to your twitter and share your mastodon link!
+Upload this edited index.html file to your webspace, and you're good to go! 
+
+###### You can now post your subdomain link to your twitter and share your mastodon link!
 
 ## Additional Tips
 
